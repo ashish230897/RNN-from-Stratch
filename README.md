@@ -1,5 +1,5 @@
 # Building Your Own Deep Recurrent Neural Network
-This repository does the same job as [this](https://github.com/ashish230897/Deep-Neural-Networks-From-Scratch) i.e it will walk you through the process of creating a **Deep Recurrent Neural Network** without using any of the deep learning *libraries* like *Tensorflow*, *Keras*, *Caffe* etc.  
+This repository does the same job as [**Deep Neural Network From Scratch**](https://github.com/ashish230897/Deep-Neural-Networks-From-Scratch) i.e it will walk you through the process of creating a **Deep Recurrent Neural Network** without using any of the deep learning *libraries* like *Tensorflow*, *Keras*, *Caffe* etc.  
 
 
 The above repository shows how to implement the Recurrent Neural Network's forward propagation, back propagation from *stratch*.  
