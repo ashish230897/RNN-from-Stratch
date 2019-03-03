@@ -39,6 +39,6 @@ The file *main.py* is to be run to start the training.
 * Inspired by Andrew Ng!
 * Got the code support from deeplearning.ai fifth course.
 
-**In case of any *doubts/confusions* do shoot a mail at : ashish.agrawal2123@gmail.com**
-
+**In case of any *doubts/confusions* do shoot a mail at : ashish.agrawal2123@gmail.com**  
+**For more details visit : [https://ashish230897.github.io/2018/08/10/Deep-NeuralNetworks-From-Scratch.html](https://ashish230897.github.io/2018/08/10/Deep-NeuralNetworks-From-Scratch.html)**
 
